@@ -13,10 +13,6 @@ In this course, you will learn about fundamental and advanced concepts in progra
   - Functions, Modules, and Libraries
   - Object-Oriented and Functional Programming Paradigms
 
-- **Web Development Technologies:**
-  - HTML, CSS, and JavaScript basics and advanced topics
-  - Building interactive and responsive web pages
-
 - **Quantum Programming Languages and Tools:**
   - Introduction to Quantum Computing
   - Programming with Qiskit (IBM Quantum)
@@ -29,9 +25,6 @@ In this course, you will learn about fundamental and advanced concepts in progra
 
 ## Languages & Tools Covered
 
-- JavaScript (JS)
-- CSS
-- HTML
 - Python
 - C++
 - Qiskit
